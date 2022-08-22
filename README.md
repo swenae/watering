@@ -5,16 +5,20 @@ with pump, relay and magnetic switch.
 
 ### Explanation
 "watering.py" is the main control script on the Pi. Put it in a separate directory ("/home/pi/scripts") and start it after the Pi boots up.
+
 "index.php" is our PHP script for our web interface. Put in a specific directory under the document root of your webspace. After that you can remotly control the Pi putting this URL to the adressbar of your browser.     
 
 ### Parts list
 - Raspberry Pi Zero W (1/2)
-- PiCam R1.3 or higher
-- RPi and cam housing
-- PiCam connection cabel
-- Servo (MG90)
-- PCB, buttons, LED, some resistors
-- Homemade feeding tower
+- centrifugal pump with 1.2m head
+- magnetic valves (2x)
+- relais modules (3x)
+- ADC like ADS1115
+- moisture Sensor v1.2 (2x)
+- power supply 5V
+- housing, cables
+- various hoses, clamps
+- adapters, control valves, ground spikes
 
 ### Figures
 Images in the image directory are:
