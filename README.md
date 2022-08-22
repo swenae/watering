@@ -20,12 +20,14 @@ with pump, relay and magnetic switch.
 - various hoses, clamps
 - adapters, control valves, ground spikes
 
-### Figures
-Images in the image directory are:
+### Schemes
+Documents in the schemes directory are:
+circuit.pdf      - electronic circuit diagram <br>
+waterpipes.pdf   - water pipes scheme <br>
 
-feeder.jpg    - working feeder <br>
-scheme.png    - connection scheme <br>
-mechanics.png - mechanics in the feeding towers <br>
-web.png       - web frontend <br>
+### Images
+Images in the image directory are:
+controlunit.jpg  - working feeder <br>
+web.png          - web frontend <br>
 
 
