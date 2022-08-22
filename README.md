@@ -21,13 +21,16 @@ with pump, relay and magnetic switch.
 - adapters, control valves, ground spikes
 
 ### Schemes
-Documents in the schemes directory: <br>
+Documents in the schemes directory:
+
 circuit.pdf      - electronic circuit diagram <br>
 waterpipes.pdf   - water pipes scheme <br>
 
 ### Images
-Images in the image directory: <br>
-controlunit.jpg  - working feeder <br>
+Images in the image directory:
+
+watering.jpg     - ready solution on a barrel  <br>
+controlunit.jpg  - control unit under construction <br>
 web.png          - web frontend <br>
 
 
