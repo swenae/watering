@@ -13,20 +13,20 @@ with pump, relay and magnetic switch.
 - centrifugal pump with 1.2m head
 - magnetic valves (2x)
 - relais modules (3x)
-- ADC like ADS1115
-- moisture Sensor v1.2 (2x)
+- ADC similiar ADS1115
+- moisture sensor v1.2 (2x)
 - power supply 5V
 - housing, cables
 - various hoses, clamps
 - adapters, control valves, ground spikes
 
 ### Schemes
-Documents in the schemes directory are:
+Documents in the schemes directory: <br>
 circuit.pdf      - electronic circuit diagram <br>
 waterpipes.pdf   - water pipes scheme <br>
 
 ### Images
-Images in the image directory are:
+Images in the image directory: <br>
 controlunit.jpg  - working feeder <br>
 web.png          - web frontend <br>
 
