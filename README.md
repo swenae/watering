@@ -8,6 +8,21 @@ with pump, relay and magnetic switch.
 
 "index.php" is our PHP script for our web interface. Put in a specific directory under the document root of your webspace. After that you can remotly control the Pi putting this URL to the adressbar of your browser.     
 
+### Blink codes
+See it on the top led of the gadget... 
+
+- static LED on/off - start/stop watering
+- blink 1x - valve1 on - activate control 
+- blink 2x - valve2 on - deactivate control
+- blink 3x - reboot
+- blink 4x - shutdown
+
+### Schemes
+Documents in the schemes directory:
+
+circuit.pdf      - electronic circuit diagram <br>
+waterpipes.pdf   - water pipes scheme <br>
+
 ### Parts list
 - Raspberry Pi Zero W (1/2)
 - centrifugal pump with 1.2m head
@@ -20,17 +35,9 @@ with pump, relay and magnetic switch.
 - various hoses, clamps
 - adapters, control valves, ground spikes
 
-### Schemes
-Documents in the schemes directory:
-
-circuit.pdf      - electronic circuit diagram <br>
-waterpipes.pdf   - water pipes scheme <br>
-
 ### Images
 Images in the image directory:
 
 watering.jpg     - ready solution on a barrel  <br>
 controlunit.jpg  - control unit under construction <br>
 web.png          - web frontend <br>
-
-
