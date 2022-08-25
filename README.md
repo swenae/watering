@@ -11,11 +11,11 @@ with pump, relay and magnetic switch.
 ### Blink codes
 See it on the top gadget LED... 
 
-- static LED on/off - start/stop watering
 - blink 1x - valve1 on - or activate control 
 - blink 2x - valve2 on - or deactivate control
 - blink 3x - reboot
 - blink 4x - shutdown
+- static LED on/off - start/stop watering
 
 ### Schemes
 Documents in the schemes directory:
