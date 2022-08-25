@@ -9,11 +9,11 @@ with pump, relay and magnetic switch.
 "index.php" is our PHP script for our web interface. Put in a specific directory under the document root of your webspace. After that you can remotly control the Pi putting this URL to the adressbar of your browser.     
 
 ### Blink codes
-See it on the top led of the gadget... 
+See it on the top gadget LED... 
 
 - static LED on/off - start/stop watering
-- blink 1x - valve1 on - activate control 
-- blink 2x - valve2 on - deactivate control
+- blink 1x - valve1 on - or activate control 
+- blink 2x - valve2 on - or deactivate control
 - blink 3x - reboot
 - blink 4x - shutdown
 
